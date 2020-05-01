@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 import os
 
 ip_lst = []
@@ -23,4 +24,3 @@ for res in res_lst:
 
 
 input()
-
